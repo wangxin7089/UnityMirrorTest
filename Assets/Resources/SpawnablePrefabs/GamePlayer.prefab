@@ -10,8 +10,9 @@ GameObject:
   m_Component:
   - component: {fileID: 5228634944219082943}
   - component: {fileID: 4423038297518228073}
+  - component: {fileID: -6808680444511496644}
   m_Layer: 0
-  m_Name: tempPlayer
+  m_Name: GamePlayer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -47,5 +48,19 @@ MonoBehaviour:
   sceneId: 0
   serverOnly: 0
   visible: 0
-  m_AssetId: 
+  m_AssetId: bdd3072c65ebd7b45a53de61e9354601
   hasSpawned: 0
+--- !u!114 &-6808680444511496644
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6855494421781701330}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c40bea676cc2a54d9a5bec8dc4f069c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  syncMode: 0
+  syncInterval: 0.1

@@ -381,6 +381,7 @@ MonoBehaviour:
   menuScene: scene_lobby
   numberOfRounds: 1
   roomPlayerPrefab: {fileID: 6312855144051516326, guid: dd83d642f35108c438c8691a7a9a5094, type: 3}
+  gamePlayerPrefab: {fileID: -6808680444511496644, guid: bdd3072c65ebd7b45a53de61e9354601, type: 3}
   playerSpawnSystem: {fileID: 0}
   roundSystem: {fileID: 0}
 --- !u!1 &1210650754
