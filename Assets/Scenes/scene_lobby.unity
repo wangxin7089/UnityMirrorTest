@@ -377,7 +377,7 @@ MonoBehaviour:
   autoCreatePlayer: 1
   playerSpawnMethod: 0
   spawnPrefabs: []
-  minPlayers: 2
+  minPlayers: 1
   menuScene: scene_lobby
   numberOfRounds: 1
   roomPlayerPrefab: {fileID: 6312855144051516326, guid: dd83d642f35108c438c8691a7a9a5094, type: 3}
